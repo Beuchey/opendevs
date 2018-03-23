@@ -1,0 +1,8 @@
+TEAM: Reservoir Dogs
+weekly report :
+--------------------
+
+We started to read some of the classes of the project ( TKTFuture, TKTWorker, ...) and we started to fully test these classes to
+see what each do individually.
+
+We also started to write our own Tutorial of each class to show our knowledge, ( shown with the tests we created).
