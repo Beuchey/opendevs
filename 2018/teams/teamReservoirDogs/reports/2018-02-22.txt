@@ -1,0 +1,9 @@
+TEAM: Reservoir Dogs
+Weekly report :
+--------------------
+
+Finished understanding the projects readme.
+
+Going deeper into the classes, with the proccesses, the debugger and others.
+
+Continuing our tutorial, so that we have what we want for the presentation.
