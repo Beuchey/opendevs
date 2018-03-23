@@ -1,0 +1,11 @@
+TEAM: Reservoir Dogs
+Weekly report :
+--------------------
+
+We started to help the project, with the creation of two different classes, one to change the order in which the tasks are done,
+The other was to give it an original time delay, so that if it is passed, the task can die, instead of staying forever.
+
+We also found two different bugs, one was the TKTService hang bug, in which the test would hang forever, and cause pharo to crash,
+we changed the test so that after 2 seconds, the test would stop so that it doesn't chang and crash pharo.
+
+The other bug was on the worker pool, with exceeded quickly in size. we are working on this bug.
