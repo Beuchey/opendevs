@@ -8,6 +8,7 @@ The other was to give it an original time delay, so that if it is passed, the ta
 We also found two different bugs, one was the TKTService hang bug, in which the test would hang forever, and cause pharo to crash,
 we have added a mechanism of setting a step delay for services  in order to avoid consuming all the processing power.
 
-The other bug was on the worker pool, with exceeded quickly in size. we are working on this bug.
+The other bug was on the worker pool, with exceeded quickly in size. we are working on this bug. 
+(issue #36 opened https://github.com/sbragagnolo/taskit/issues/36)
 
 Issue #34 solved.
