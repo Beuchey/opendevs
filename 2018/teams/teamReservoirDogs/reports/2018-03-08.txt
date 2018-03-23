@@ -1,0 +1,8 @@
+TEAM: Reservoir Dogs
+Weekly report :
+--------------------
+
+The week before was the holidays, we used that time to do our presentation.
+
+This week was presentation time, so we presented the taskit project to our classmates, with a few given examples to show how it
+really works.
