@@ -8,4 +8,4 @@ Going deeper into the classes, with the proccesses, the debugger and others.
 
 Continuing our tutorial, so that we have what we want for the presentation.
 
-Add issue #34 
+Add issue #34 https://github.com/sbragagnolo/taskit/issues/34
